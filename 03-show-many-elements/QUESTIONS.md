@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+It wasn't hard at all but I had to search up the web for the format of `<style></style>` CSS.
